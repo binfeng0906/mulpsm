@@ -1,1 +1,1 @@
-# mulpsm
+# multi propensity score matching
